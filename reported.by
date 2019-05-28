@@ -1,0 +1,3 @@
+reporter_name="wxalriss"
+reporter_url="https://github.com/wxalriss/ct-ng_configs.git"
+reporter_comment="Configuration for arch MIPSEL, target compiler GCC-7.4.0"
