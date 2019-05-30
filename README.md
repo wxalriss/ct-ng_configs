@@ -7,6 +7,9 @@ Notes:
   3.set Tuple prefix "gnu"
   4.set target gcc compiler "GCC-7.4.0"
   5.set target Linux version "3.4.113"
+  6.set build static toolchains for target
+  7.set C library using uClibc-1.0.31
+  8.set binutils version binutils-2.32
 
 Usage:
   1.clone a branch and copy it to your crosstool-ng-(#version)/samples directory;
